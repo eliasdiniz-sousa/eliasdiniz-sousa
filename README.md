@@ -1,6 +1,6 @@
-[README.md](https://github.com/user-attachments/files/35425981/README.md)
+[README.md](https://github.com/user-attachments/files/35426059/README.md)
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0284C7&height=210&section=header&text=Elias%20Diniz&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=Arquiteto%20de%20Software%20%7C%20Gestor%20de%20Equipes&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Elias Diniz" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,50:450A0A,100:DC2626&height=210&section=header&text=Elias%20Diniz&fontSize=54&fontColor=FAFAFA&fontAlignY=38&desc=Arquiteto%20de%20Software%20%7C%20Gestor%20de%20Equipes&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Elias Diniz" />
 
   <p>
     <em>"Desenvolver software é ajudar a criar soluções para a humanidade."</em>
@@ -8,13 +8,13 @@
 
   <p>
     <a href="mailto:eliasdinis694@gmail.com">
-      <img src="https://img.shields.io/badge/Email-eliasdinis694%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-eliasdinis694%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email" />
     </a>
     <a href="https://instagram.com/eliasdinis_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%40eliasdinis__-0F172A?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-%40eliasdinis__-18181B?style=for-the-badge&logo=instagram&logoColor=EF4444" alt="Instagram" />
     </a>
     <a href="https://github.com/eliasdiniz-sousa" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-eliasdiniz--sousa-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-eliasdiniz--sousa-18181B?style=for-the-badge&logo=github&logoColor=F87171" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -36,23 +36,23 @@ Sou **Elias Diniz**, **Arquiteto de Software e Gestor de Equipes**, movido pelo 
 
 ### 🎯 Foco Principal
 <p>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Rust-0F172A?style=for-the-badge&logo=rust&logoColor=F97316" alt="Rust" />
-  <img src="https://img.shields.io/badge/Lua-0F172A?style=for-the-badge&logo=lua&logoColor=60A5FA" alt="Lua" />
+  <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=EF4444" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-18181B?style=for-the-badge&logo=cplusplus&logoColor=EF4444" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-18181B?style=for-the-badge&logo=rust&logoColor=EF4444" alt="Rust" />
+  <img src="https://img.shields.io/badge/Lua-18181B?style=for-the-badge&logo=lua&logoColor=EF4444" alt="Lua" />
 </p>
 
 ### 🧩 Experiência & Ecossistema de Projetos
 <p>
-  <img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-0F172A?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=38BDF8" alt="SQLite" />
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Three.js-0F172A?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Arch_Linux-0F172A?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=F87171" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-18181B?style=for-the-badge&logo=dart&logoColor=F87171" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-18181B?style=for-the-badge&logo=kotlin&logoColor=F87171" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/SQLite-18181B?style=for-the-badge&logo=sqlite&logoColor=F87171" alt="SQLite" />
+  <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F87171" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Three.js-18181B?style=for-the-badge&logo=threedotjs&logoColor=F87171" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwind-css&logoColor=F87171" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Arch_Linux-18181B?style=for-the-badge&logo=archlinux&logoColor=F87171" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F87171" alt="Git" />
 </p>
 
 ---
@@ -82,16 +82,16 @@ Aplicação completa para gestão operacional e financeira de aluguel de bicicle
 
 <div align="center">
   <a href="https://github.com/eliasdiniz-sousa">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eliasdiniz-sousa&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Elias Diniz" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eliasdiniz-sousa&show_icons=true&bg_color=18181B&title_color=EF4444&icon_color=EF4444&text_color=F4F4F5&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Elias Diniz" />
   </a>
   <a href="https://github.com/eliasdiniz-sousa">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdiniz-sousa&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Elias Diniz" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdiniz-sousa&layout=compact&bg_color=18181B&title_color=EF4444&text_color=F4F4F5&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Elias Diniz" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/eliasdiniz-sousa">
-    <img src="https://streak-stats.demolab.com?user=eliasdiniz-sousa&theme=tokyonight&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+    <img src="https://streak-stats.demolab.com?user=eliasdiniz-sousa&background=18181B&ring=DC2626&fire=EF4444&currStreakLabel=EF4444&sideLabels=F4F4F5&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=A1A1AA&stroke=27272A&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
   </a>
 </div>
 
@@ -106,5 +106,5 @@ Aberto a **oportunidades como Desenvolvedor / Arquiteto de Software**, **projeto
 - 💻 **GitHub:** [github.com/eliasdiniz-sousa](https://github.com/eliasdiniz-sousa)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:1E293B,100:0F172A&height=110&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:450A0A,100:0D0D12&height=110&section=footer" width="100%" alt="Footer" />
 </div>
