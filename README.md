@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35426059/README.md)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,50:450A0A,100:DC2626&height=210&section=header&text=Elias%20Diniz&fontSize=54&fontColor=FAFAFA&fontAlignY=38&desc=Arquiteto%20de%20Software%20%7C%20Gestor%20de%20Equipes&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Elias Diniz" />
 
